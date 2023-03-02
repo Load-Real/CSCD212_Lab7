@@ -1,0 +1,51 @@
+ 
+  ----jGRASP exec: java cscd212lab7.CSCD212Lab7
+ Player's current location: (4, 2)
+ Move choices: N W E (Q for Quit) --> n
+ 
+ Hugh Mann has moved from (4,2) to (3,2)
+ Martin has healed from 60 life points to 70 life points
+ Starry has healed from 30 life points to 31 life points
+ 
+ Player's current location: (3, 2)
+ Move choices: N S W E (Q for Quit) --> n
+ 
+ Hugh Mann has moved from (3,2) to (2,2)
+ Martin has healed from 70 life points to 80 life points
+ Starry has healed from 31 life points to 32 life points
+ 
+ Player's current location: (2, 2)
+ Move choices: N S W E (Q for Quit) --> n
+ 
+ Hugh Mann has moved from (2,2) to (1,2)
+ Martin has healed from 80 life points to 90 life points
+ Starry has healed from 32 life points to 33 life points
+ 
+ Player's current location: (1, 2)
+ Move choices: S W E (Q for Quit) --> w
+ 
+ Hugh Mann has moved from (1,2) to (1,1)
+ Martin has healed from 90 life points to 100 life points
+ Starry has healed from 33 life points to 34 life points
+ 
+ Player's current location: (1, 1)
+ Move choices: N S W E (Q for Quit) --> w
+ 
+ Hugh Mann has moved from (1,1) to (1,0)
+ Martin has healed from 100 life points to 110 life points
+ Starry has healed from 34 life points to 35 life points
+ 
+ Player's current location: (1, 0)
+ Move choices: N S E (Q for Quit) --> n
+ 
+ Hugh Mann has moved from (1,0) to (0,0)
+ Martin has healed from 110 life points to 120 life points
+ Starry has healed from 35 life points to 36 life points
+ 
+ Player's current location: (0, 0)
+ Move choices: S E (Q for Quit) --> q
+ 
+ ***** Game Over! *****
+ 
+  ----jGRASP: operation complete.
+ 
